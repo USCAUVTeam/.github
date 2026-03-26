@@ -64,7 +64,27 @@
 
 <br>
 
-### 🤖 Autonomy Stack
+### 📚 Guides & Tutorials
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://github.com/usc-robosub/ros-tutorials" style="text-decoration:none;">
+        <br>📖<br><b>ros-tutorials</b><br><br>
+      </a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
+    </td>
+    <td width="33.3%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
+    </td>
+    <td width="33.3%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### ~~🤖 Autonomy Stack~~ (*Archived*)
 <table width="100%">
   <tr>
     <td width="33.3%" align="center">
@@ -107,7 +127,7 @@
 
 <br>
 
-### 🔌 Peripheral Interfaces & Drivers
+### ~~🔌 Peripheral Interfaces & Drivers~~ (*Archived*)
 <table width="100%">
   <tr>
     <td width="33.3%" align="center">
@@ -154,26 +174,6 @@
     </td>
     <td width="33.3%"></td>
     <td width="33.3%"></td>
-  </tr>
-</table>
-
-<br>
-
-### 📚 Introduction Guides
-<table width="100%">
-  <tr>
-    <td width="33.3%" align="center">
-      <a href="https://github.com/usc-robosub/ros-tutorials" style="text-decoration:none;">
-        <br>📖<br><b>ros-tutorials</b><br><br>
-      </a>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
-    </td>
-    <td width="33.3%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
-    </td>
-    <td width="33.3%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" />
-    </td>
   </tr>
 </table>
 
