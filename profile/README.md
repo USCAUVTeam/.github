@@ -26,13 +26,6 @@
       </a>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/usc-robosub/barracuda-teensy" style="text-decoration:none;">
-        <br>🎛️<br><b>barracuda-teensy</b><br>
-        <i>Firmware (Teensy Microcontrollers)</i><br><br>
-      </a>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="380" height="1" />
-    </td>
   </tr>
 </table>
 
